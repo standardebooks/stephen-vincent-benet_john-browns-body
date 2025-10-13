@@ -29,3 +29,121 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+[epub|type~="z3998:poem"] header p{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+/* Poem */
+[epub|type~="z3998:hymn"] hgroup p,
+[epub|type~="z3998:poem"] hgroup p,
+[epub|type~="z3998:song"] hgroup p,
+[epub|type~="z3998:verse"] hgroup p{
+	text-align: center;
+}
+
+[epub|type~="z3998:hymn"] p,
+[epub|type~="z3998:poem"] > p,
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:hymn"] p > span,
+[epub|type~="z3998:poem"] > p > span,
+[epub|type~="z3998:song"] p > span,
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:hymn"] p > span + br,
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:song"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:hymn"] p + p,
+[epub|type~="z3998:poem"] > p + p,
+[epub|type~="z3998:song"] p + p,
+[epub|type~="z3998:verse"] p + p{
+	margin-top: 1em;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.i3{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
+p span.i4{
+	padding-left: 5em;
+	text-indent: -1em;
+}
+
+p span.i5{
+	padding-left: 6em;
+	text-indent: -1em;
+}
+
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+
+p span.i7{
+	padding-left: 8em;
+	text-indent: -1em;
+}
+
+p span.i8{
+	padding-left: 9em;
+	text-indent: -1em;
+}
+
+p span.i9{
+	padding-left: 10em;
+	text-indent: -1em;
+}
+
+p span.i15{
+	padding-left: 16em;
+	text-indent: -1em;
+}
+
+p span.i19{
+	padding-left: 20em;
+	text-indent: -1em;
+}
+
+p span.i22{
+	padding-left: 23em;
+	text-indent: -1em;
+}
+
+.dl2 span:first-child{
+	vertical-align: 100%;
+}
+
+.dl3 span:first-child{
+	vertical-align: 200%;
+}
+
+.dl3 span:nth-child(2){
+	vertical-align: 100%;
+}
+/* End poem */
