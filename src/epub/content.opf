@@ -39,14 +39,14 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">This epic poem chronicles the sweeping tragedy of the American Civil War through the interwoven experiences of soldiers and civilians from both the North and the South.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/stephen-vincent-benet"&gt;Stephen Vincent Benét’s&lt;/a&gt; epic poem, &lt;i&gt;John Brown’s Body&lt;/i&gt;, uses the figure of the radical abolitionist John Brown as a symbolic catalyst to explore the vast and complex tapestry of the American Civil War. Rather than focusing on a single narrative, the poem employs a wide range of fictional characters and a shifting perspective to present the conflict from multiple angles, encompassing the experiences of soldiers and civilians from both the Union and the Confederacy. It delves into the deep-seated causes of the war, the fervent ideologies on each side, and the immense human cost, all while grappling with the central, haunting issue of slavery that divided the nation.&lt;/p&gt;
+			&lt;p&gt;Stephen Vincent Benét wrote &lt;i&gt;John Brown’s Body&lt;/i&gt; in the late 1920s, as the last Civil War veterans were passing away, and he felt an urgent need to capture their fading stories before they were lost forever. He and his wife, Rosemary, buried themselves in research, turning their home into a map-strewn “war room.” The resulting poem, which won the Pulitzer Prize, was his attempt to build a national memorial out of words—not just for the generals, but for the forgotten soldiers, farmers, and enslaved people whose personal stories, he believed, were the true soul of American history.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks07/0700461h.html</dc:source>
 		<dc:source>https://archive.org/details/johnbrownsbody0000unse</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/John_Brown%27s_Body_(poem)</meta>
