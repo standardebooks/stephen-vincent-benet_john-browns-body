@@ -41,11 +41,15 @@ footer{
 }
 /* End preface */
 
-/* Hymn, poem, song, verse */
+/* Hymn, poem, verse */
 [epub|type~="z3998:poem"] header p{
 	font-variant: small-caps;
 	margin: 1em;
 	text-align: center;
+}
+
+[epub|type~="z3998:poem"] header p i{
+	font-variant: normal;
 }
 
 /* Poem */
@@ -150,4 +154,4 @@ p span.i22{
 .dl3 span:nth-child(2){
 	vertical-align: 100%;
 }
-/* End hymn, poem, song, verse */
+/* End hymn, poem, verse */
