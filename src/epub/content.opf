@@ -39,6 +39,9 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Poetry Winners</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">8</meta>
 		<dc:description id="description">The sweeping tragedy of the American Civil War is chronicled through the interwoven experiences of soldiers and civilians from both the North and the South.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/stephen-vincent-benet"&gt;Stephen Vincent Benét’s&lt;/a&gt; epic poem &lt;i&gt;John Brown’s Body&lt;/i&gt; uses the figure of the radical abolitionist John Brown as a symbolic catalyst to explore the vast and complex tapestry of the American Civil War. Rather than focusing on a single narrative, the poem employs a wide range of fictional characters and a shifting perspective to present the conflict from multiple angles, encompassing the experiences of soldiers and civilians from both the Union and the Confederacy. It delves into the deep-seated causes of the war, the fervent ideologies on each side, and the immense human cost, all while grappling with the central, haunting issue of slavery that divided the nation.&lt;/p&gt;
