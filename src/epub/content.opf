@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">John Brown’s Body</dc:title>
 		<meta property="file-as" refines="#title">John Brown’s Body</meta>
-		<dc:subject id="subject-1">United States -- History -- Civil War, 1861-1865 -- Poetry</dc:subject>
-		<dc:subject id="subject-2">Harpers Ferry (W. Va.) -- History--John Brown's Raid, 1859 -- Poetry</dc:subject>
-		<dc:subject id="subject-3">Brown, John, 1800-1859 -- Poetry</dc:subject>
+		<dc:subject id="subject-1">United States--History--Civil War, 1861-1865--Poetry</dc:subject>
+		<dc:subject id="subject-2">Harpers Ferry (W. Va.)--History--John Brown's Raid, 1859--Poetry</dc:subject>
+		<dc:subject id="subject-3">Brown, John, 1800-1859--Poetry</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100169</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
